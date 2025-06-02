@@ -1,6 +1,3 @@
-Hi Natalie,
-
-Please accept my apologies for late response. I've been travelling and busy with my little son. Please find below sample of the blog. Please note that I will include the required screenshots as well. And any related link to Fabric and OpenAI services. 
 
 AI-Powered Sentiment Analysis in Microsoft Fabric with Azure OpenAI
 
@@ -57,6 +54,3 @@ Whether you're a data engineer, developer, or analytics professional, this appro
 
 I’d love to hear how you might apply this in your own work or how you'd extend it. Feel free to reach out or drop your ideas in the comments section of the video.
 
-I'm looking forward to hearing back from you. 
-Regards,
-Mehrdad
